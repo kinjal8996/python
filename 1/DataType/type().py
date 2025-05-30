@@ -1,6 +1,6 @@
-# x = 5
+x = 5
 # x = "Hello World"	
-x = memoryview(bytes(5))			
+# x = memoryview(bytes(5))			
 print(type(x)) 
 
 
@@ -20,3 +20,4 @@ print(type(x))
 # x = bytearray(5)	
 # x = memoryview(bytes(5))	
 # x = None	
+# print(type(x)) 
