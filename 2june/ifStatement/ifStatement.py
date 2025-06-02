@@ -1,6 +1,7 @@
-txt = "The best things in life are free!"
-if "free" in txt:
-  print("Yes, 'free' is present.")
+# txt = "The best things in life are free!"
+# if "free" in txt:
+#   print("Yes, 'free' is present.")
+
 
 # a = 33
 # b = 200
@@ -9,11 +10,11 @@ if "free" in txt:
 #   print("b is greater than a")
 
 # And keyword
-# a = 200
-# b = 33
-# c = 500
-# if a > b and c > a:
-#   print("Both conditions are True")
+a = 200
+b = 33
+c = 100
+if a > b and c > a:
+  print("Both conditions are True")
 # or  keyword
 # a = 200
 # b = 33
